@@ -57,7 +57,7 @@ This project analyzes customer churn using the IBM Telco Customer Churn dataset.
 
 Upload your `Dashboard.png` screenshot to the repository and GitHub will display it here.
 
-(Dashboard.png)
+
 
 ---
 
